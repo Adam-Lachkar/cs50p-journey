@@ -1,3 +1,5 @@
+CS50p-journey
+
 # Learning Log
 
 Documenting my transition from Applied Mathematics into Cybersecurity and Cryptography.
